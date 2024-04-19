@@ -13,7 +13,7 @@ The dataset used in this project contains various health metrics and medical his
    - Encoding categorical variables
    
 ### 2. Model Development
-   - Implemented three classification algorithms using three different classifiers:
+   - Implemented three classification models using three different classifiers:
      - K-Nearest Neighbors (KNN)
      - Bernoulli Naive-Bayes
      - Support Vector Classifier (SVC)
